@@ -2,6 +2,9 @@
 
 **SilentComm** is a real-time facial emotion recognition system designed to assist in silent or non-verbal communication using AI and computer vision. Built with Python, TensorFlow, and Streamlit, it uses webcam input to detect and classify facial expressions.
 
+This project is built using a Convolutional Neural Network (CNN) trained on the FER-2013 dataset and inspired by the Kaggle notebook:  
+🔗 [Facial Emotion Recognition by gauravece068](https://www.kaggle.com/code/gauravece068/facial-emotion-recognition)
+
 ## 🚀 Features
 
 - 🎥 Real-time webcam input
